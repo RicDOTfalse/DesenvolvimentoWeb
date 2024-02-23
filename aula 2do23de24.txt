@@ -1,0 +1,39 @@
+Paginas dos arquivos [
+
+    https://sqlitebrowser.org/dl/
+    https://git-scm.com/
+    https://code.visualstudio.com/
+    https://www.python.org/
+
+]
+
+paginas de referencia : [
+
+    https://docs.python.org/pt-br/3/ - Python 
+    https://code.visualstudio.com/docs - Visual studio code
+    https://github.com/sqlitebrowser/sqlitebrowser/wiki - Sqlite docs
+    https://git-scm.com/docs/git/pt_BR - Git
+
+]
+
+pra que serverm : [ 
+
+    Git - um sistema de controle com abundancia de comandos bem rico que oferece opreções de alto nivel e acesso aos seus recursos
+    em outras palavras, o Git e usado para controlar e Revisionar coisas feitass no projeto
+
+    SQLITEBEOWSER - e um programa Open Source feito pra editar, controlar e mecher nos arquivos de Banco de dados de um programa. 
+    ele usa de uma mecanica e comandos familiares para todos programadores e pode ser usado para conferir ou modificar base de dados.
+
+    VScode - este e um editor de texto, leve para rodar em pcs mais fracos porém ainda poderoso o suficiente para ser usado por 
+    diversos locais da industria, em outras palavras, ele e um programa que auxilia e facilita na organização e edição de texto para a 
+    programação.
+
+    Python - Python 3.12 e uma das novas versões do python, uma linguagem de programação. esta versão (3.12) vem com modificações e auxilio nas linguagens, vindo vom a ideia de auxiliar na troca de APi's obsoletas.
+
+
+]
+
+como se relacionam : [ 
+
+    O VScode para programar usando Python e dps usamos o Git para rodar, usamos Sqlitebrowser para modelar o site como queremos e usando navegadores como Google Chrome para averiguar como esta sendo executado
+]
