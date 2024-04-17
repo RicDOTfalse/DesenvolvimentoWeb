@@ -1,0 +1,35 @@
+var Ranger = "Vermelho";
+
+console.log("eu sou o Ranger" + Ranger + " , " + "Poder!" + Ranger);
+
+
+function paralelepipedo() {
+  
+  let princesa = "neste castelo" ;
+  
+  if (princesa === "neste castelo") {
+    
+    let princesa = "Sua princesa esta em outro castelo" ;
+    
+    console.log("Mario, perdão , mas " + princesa)
+  }
+  
+  console.log("Mario, sua princesa esta " + princesa);  
+  
+}
+
+paralelepipedo();
+
+const HEROI_GENERICO = {
+  
+  nome : "Pedro Pedroso" ,
+  
+  sobrenome2 :"Pedro Peixoso"
+  
+};
+
+HEROI_GENERICO.login = "adm"
+
+console.log(HEROI_GENERICO)
+
+
