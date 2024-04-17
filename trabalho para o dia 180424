@@ -28,6 +28,14 @@ const HEROI_GENERICO = {
   
 };
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+var Cidade = ["Rio de janeiro" , "são paulo" , "Céara"];
+
+console.log("qual a cidade com praia ?" + Cidade[0]);
+console.log("Qual a cidade com predios altos ?" + Cidade[1]);
+console.log("eu to sem criatividade me perdoa" + Cidade[2]);
+
 HEROI_GENERICO.login = "adm"
 
 console.log(HEROI_GENERICO)
